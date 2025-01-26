@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/922327579.svg)](https://doi.org/10.5281/zenodo.14740742)
+
 # 🦋 butterfly-hackathon-team 🦋
 2023 AI Hackathon Butterfly + Flower model app team!
 Alexia Rangel Krashenitsa
